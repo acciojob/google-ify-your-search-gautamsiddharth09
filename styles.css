@@ -1,1 +1,83 @@
-/*  your css code here. If applicable */
+
+#grid{
+	width:25px;
+	padding-top:px;
+}
+.voice-search{
+	width:20px
+}
+.image{
+	width:30px
+}
+ul{
+	list-style-type:none;
+}
+.nav{
+	display:inline;
+	float:right;
+	margin:5px;
+	color:#000;
+	text-decoration:none;
+	font-size:14px
+}
+.footer-link1{
+	float:left;
+	padding:5px;
+	margin-left:0px;
+}
+.footer-link2{
+	float:right;
+	padding:5px;
+	
+}
+.footer{
+	width:100%;
+	height:30px;
+	color:#000;
+	margin-bottom:0px;
+}
+.glogo{
+	width:200px;
+	margin-top:130px;
+	margin-left:160px;
+}
+.search-bar{
+	width:350px;
+	height:30px;
+	margin-left:80px;
+	border:1px solid #dcdcdc;
+	border-radius:30px;
+}
+.voice-search{
+ width:px;
+ position:relative;
+top:5px;
+left:150px;
+	
+}
+.buttons{
+	margin-left:150px;
+	padding-top:30px;
+	
+}
+.button{
+	color:#707070;
+	background-color:#f5f5f5;
+	border:1px solid #dcdcdc;
+	
+}
+#rnav{
+	padding-top:5px
+}
+#signin{
+	background-color:blue;
+}
+.footer-link1{
+	text-decoration:none;
+	font-size:15px;
+}
+.footer-link2{
+	text-decoration:none;
+	font-size:15px;
+}
+
